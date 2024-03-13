@@ -1,0 +1,4 @@
+Q4.1. The best generalization model = 5
+Q4.2. The most overfitting model = 9
+Q4.3. The best generalization model = C
+Q4.4. The most overfitting model = D
